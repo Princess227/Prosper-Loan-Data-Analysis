@@ -10,7 +10,7 @@
 
 ## Summary of Findings
 
->Stated Monthly Income and Monthly Loan Payment were transformed using a log scale to interprete the distribution because they were right skewed. The transformation showed that most borrowers monthly income was within the range of \\$4000 to \\$6000. Most borrowers tend to pay between \\$100 and \\$400 as monthly loan payments for their loans.
+>Stated Monthly Income and Monthly Loan Payment were transformed using a log scale to interprete the distribution because they were right skewed. The transformation showed that most borrowers monthly income was within the range of $4000 to $6000. Most borrowers tend to pay between $100 and $400 as monthly loan payments for their loans.
 
 >DelinquentBucket is a categorical variable created using the LoanCurrentDaysDelinquent to get the frequency of the Loans that have passed the due day. This revealed that majority of the borrowers fall within the Past Due (>180 Days) delinquency.
 
